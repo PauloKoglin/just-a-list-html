@@ -1,0 +1,69 @@
+{
+    "itens": [
+        {
+            "id": 1,
+            "description": "Lista do netto",
+            "date": "01.06.2020",
+            "user": "Joao",
+            "produtos": [
+                {
+                    "id": 1,
+                    "description": "banana",
+                    "quantity": 1
+                },
+                {
+                    "id": 2,
+                    "description": "sabao",
+                    "quantity": 1
+                },
+                {
+                    "id": 3,
+                    "description": "detergente",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "description": "Compras kaufland",
+            "date": "25.05.2020",
+            "user": "Joao",
+            "produtos": [
+                {
+                    "id": 1,
+                    "description": "maracuja",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "description": "Compras Radlbauer",
+            "date": "05.05.2020",
+            "user": "Joao",
+            "produtos": [
+                {
+                    "id": 1,
+                    "description": "bike paulo",
+                    "quantity": 1
+                },
+                {
+                    "id": 2,
+                    "description": "roupas",
+                    "quantity": 2
+                },
+                {
+                    "id": 3,
+                    "description": "buzina",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "description": "Compras DM",
+            "date": "28.05.2020",
+            "user": "Joao"
+        }
+    ]
+}
